@@ -6,7 +6,7 @@
 
 > I built an end-to-end customer attrition system where I benchmarked a Deep Neural Network against an XGBoost ensemble, optimizing the modeling strategy around the business cost of missed churners. After selecting XGBoost as the champion model based on its superior minority-class performance, I integrated TreeSHAP for customer-level explainability and deployed the entire pipeline as an interactive Streamlit application for real-time inference.
 
-![Streamlit App Screenshot](docs/stremlit.png) 
+![Streamlit App Screenshot](docs/streamlit.png) 
 
 ## 🛠️ Tech Stack
 * **Data Processing:** `pandas`, `numpy`, `scikit-learn` (`ColumnTransformer`)
