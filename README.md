@@ -1,6 +1,6 @@
 # 🏦 ChurnPulse: Retail Bank Attrition Intelligence
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churnpulse-ann-v9mcvywik2speesccughyc.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churnpulse-ann-primeyyy.streamlit.app/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Champion-orange)](https://xgboost.ai/)
 
